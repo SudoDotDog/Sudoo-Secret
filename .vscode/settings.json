@@ -1,7 +1,9 @@
 {
     "cSpell.words": [
         "Sudoo",
+        "chmod",
         "codecov",
+        "mocharc",
         "thumbsup"
     ],
     "eslint.options": {
