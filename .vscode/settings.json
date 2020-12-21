@@ -1,0 +1,10 @@
+{
+    "cSpell.words": [
+        "Sudoo",
+        "codecov",
+        "thumbsup"
+    ],
+    "eslint.options": {
+        "configFile": "./typescript/.eslintrc.json"
+    }
+}
